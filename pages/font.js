@@ -72,7 +72,7 @@ const font = () => {
                     ))}
                 </div>
             </div>
-        </div >
+        </div>
     )
 }
 
