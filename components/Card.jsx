@@ -13,7 +13,7 @@ const Card = ({ typing, font }) => {
                     <p className='font-bold text-grayText text-[12px]'>{font.styles} styles</p>
                 </div>
                 <p className={[`text-white text-[40px] break-all`]}>{typing ? typing : 'Almost before we knew it, we had left the ground.'}</p>
-            </div >
+            </div>
         </Link>
     )
 }
