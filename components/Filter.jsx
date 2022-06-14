@@ -108,7 +108,7 @@ const Filter = ({ typing, setTyping, size, setSize }) => {
                     </div>
                 </div>
             </div>
-        </div >
+        </div>
     )
 }
 
