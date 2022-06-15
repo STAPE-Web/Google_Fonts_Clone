@@ -11,7 +11,7 @@ module.exports = {
         border: '#5F6368',
         active: "#8AB4F8",
         hover: '#24272D',
-        dropDown: '#3C4043'
+        dropDown: '#3C4043',
       }
     },
   },
