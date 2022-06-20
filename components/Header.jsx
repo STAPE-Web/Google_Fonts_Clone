@@ -52,7 +52,7 @@ const Header = () => {
                     <MoonIcon className={`h-[25px] text-grayText ${dark}`} onClick={darkTheme} />
                 </div>
                 <div className={`cursor-pointer w-[48px] h-[48px] flex justify-center items-center ${hoverLight} rounded-full mx-[10px]`}>
-                    <ViewGridAddIcon className="h-[25px] text-grayText" />
+                    <ViewGridAddIcon className='h-[25px] text-grayText' />
                 </div>
             </div>
         </header>
